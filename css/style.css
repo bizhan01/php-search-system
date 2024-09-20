@@ -1,0 +1,60 @@
+/* header css code */
+/* logo css code */
+header{
+  background-color: #00B0F0;
+}
+header img {
+  margin-top: 7px;
+}
+/* search css code */
+#search{
+  margin-top: 12px;
+}
+/* icons css code */
+#icons ul a li{
+  display: inline;
+  padding: 10px;
+  font-size: 20px;
+  color: white;
+}
+#icons ul #pic{
+  padding-right: -30px;
+}
+#icons ul #name{
+  padding-left: -30px;
+}
+
+#icons ul{
+  margin-top: 10px;
+}
+
+/* aside css code */
+aside{
+  background-color: #00B0F0;
+  margin-top: 3px;
+  margin-left: -15px;
+  position: relative;
+}
+
+aside h1{
+  margin: 0px;
+  color: white;
+  font-family: Algerian;
+  border-bottom: 2px solid white;
+}
+aside img{
+  margin-top: 3px;
+  width: 100%;
+  height: 168px;
+}
+
+/* section CSS codes */
+section{
+
+  margin-top: 3px;
+}
+
+#container{
+  background-color: #d9edf7;
+
+}
